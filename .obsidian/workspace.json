@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "불변성 드궤줴~ ㅋㅋ.md",
+                "file": "React_Week_1/불변성.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "02f28f595e6a4d28",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md"
               }
             }
           },
@@ -25,10 +35,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "렌더링 , 리렌더링.md",
+                "file": "React_Week_1/렌더링 , 리렌더링.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c11435141493bfef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "렌더링 , 리렌더링.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "렌더링 , 리렌더링.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "렌더링 , 리렌더링.md"
+                "file": "Untitled Kanban.md"
               }
             }
           },
@@ -168,11 +186,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5895e534a986744b",
+  "active": "02f28f595e6a4d28",
   "lastOpenFiles": [
-    "불변성 드궤줴~ ㅋㅋ.md",
-    "Untitled Kanban.md",
+    "React_Week_1/맵(map).md",
+    "React_Week_1/불변성.md",
+    "React_Week_1/렌더링 , 리렌더링.md",
     "src/동기비동기에넣을짤블로그.png",
+    "무제 파일.md",
+    "Untitled Kanban.md",
     "src/무제 파일.canvas"
   ]
 }
