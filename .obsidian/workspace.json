@@ -23,9 +23,21 @@
             "id": "02f28f595e6a4d28",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "image",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "src/동기비동기에넣을짤블로그.png"
+              }
+            }
+          },
+          {
+            "id": "bd16c46e6e59917d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "useContext.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "useContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "useContext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "useContext.md"
               }
             }
           },
@@ -186,14 +198,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02f28f595e6a4d28",
+  "active": "bd16c46e6e59917d",
   "lastOpenFiles": [
+    "src/contextAPI.png",
+    "Untitled Kanban.md",
+    "useContext.md",
+    "src/동기비동기에넣을짤블로그.png",
     "React_Week_1/맵(map).md",
     "React_Week_1/불변성.md",
     "React_Week_1/렌더링 , 리렌더링.md",
-    "src/동기비동기에넣을짤블로그.png",
-    "무제 파일.md",
-    "Untitled Kanban.md",
     "src/무제 파일.canvas"
   ]
 }
