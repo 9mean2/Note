@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useContext.md",
+                "file": "React_Week_2/useContext.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useContext.md",
+                "file": "React_Week_2/useContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useContext.md",
+                "file": "React_Week_2/useContext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useContext.md"
+                "file": "React_Week_2/useContext.md"
               }
             }
           },
@@ -198,11 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd16c46e6e59917d",
+  "active": "978e62cf3e0ab469",
   "lastOpenFiles": [
     "src/contextAPI.png",
     "Untitled Kanban.md",
-    "useContext.md",
+    "React_Week_2/useContext.md",
     "src/동기비동기에넣을짤블로그.png",
     "React_Week_1/맵(map).md",
     "React_Week_1/불변성.md",
