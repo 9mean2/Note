@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "d707f6be41e36821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React_Week_2/Styled Componetns 01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5895e534a986744b",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0758cd786013c8af",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React_Week_2/useContext.md",
+                "file": "React_Week_2/Styled Componetns 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React_Week_2/useContext.md",
+                "file": "React_Week_2/Styled Componetns 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React_Week_2/useContext.md"
+                "file": "React_Week_2/Styled Componetns 01.md"
               }
             }
           },
@@ -185,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +211,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "978e62cf3e0ab469",
+  "active": "d707f6be41e36821",
   "lastOpenFiles": [
-    "src/contextAPI.png",
-    "Untitled Kanban.md",
     "React_Week_2/useContext.md",
+    "React_Week_2/Styled Componetns 01.md",
+    "src/contextAPI.png",
     "src/동기비동기에넣을짤블로그.png",
+    "Untitled Kanban.md",
     "React_Week_1/맵(map).md",
     "React_Week_1/불변성.md",
     "React_Week_1/렌더링 , 리렌더링.md",
